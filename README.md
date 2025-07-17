@@ -8,7 +8,7 @@
 </p>
 
 <!-- === Profile Header & Badges === -->
-<h2 align="center">Hello stranger, dive into my uninteresting</h2>
+<h2 align="center">Hello stranger, dive into my uninteresting profile</h2>
 <p align="center">
   <a href="https://github.com/viratiiitd">
     <img src="https://komarev.com/ghpvc/?username=viratiiitd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
