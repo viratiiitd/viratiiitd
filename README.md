@@ -1,6 +1,6 @@
 <!-- === Banner === -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/viratiiitd/viratiiitd/main/assets/profile-banner.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4sdvDRWEvrVBNBpFGCa37DHfPKo79xFuKfw&s)" alt="Banner" width="800"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dweb%2Bdevelopment%2Bbanner&psig=AOvVaw1puvZaTW4NC5OMiNTaX7JS&ust=1752858198997000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKiSjOSvxI4DFQAAAAAdAAAAABAE" alt="Banner" width="800"/>
 </p>
 
 <!-- === Profile Header & Badges === -->
