@@ -40,13 +40,25 @@ I’m a B.Tech (CSD) student at IIIT Delhi, building web apps, designing intuiti
 ---
 
 ## 💼 Experience
-<!-- …your existing experience section here… -->
+### Software Engineer Intern @ Simplify Money  
+_Jun 2025 – Aug 2025_  
+- Engineered five responsive landing pages using semantic HTML5, CSS3 (Flexbox/Grid), and vanilla JavaScript; achieved a **90% mobile‑friendliness** score on Google PageSpeed Insights :contentReference[oaicite:4]{index=4}  
+- Composed 12+ React components with full CRUD functionality, utilizing Hooks & Context API; improved application load times by **15%** :contentReference[oaicite:5]{index=5}  
+- Instituted code review guidelines and GitHub Actions workflows; decreased critical bugs by **30%** and system downtime by **15%** :contentReference[oaicite:6]{index=6}
 
 ---
 
 ## 🔭 Projects
-<!-- …your existing projects section here… -->
+- **[Stick Hero](https://github.com/viratiiitd)**  
+  JavaFX game with 95% test coverage and a 15% boost in player retention :contentReference[oaicite:7]{index=7}  
+- **[ConvoInsight](https://github.com/viratiiitd/backend_assignment)**  
+  FastAPI backend + Streamlit dashboard with OpenAI integration; **30% faster** data retrieval :contentReference[oaicite:8]{index=8}  
+- **[FinEase](https://github.com/Dushyant98474839/Dis_Prj)**  
+  Express.js & EJS budget tool with CSS pie charts; **20%** increased user engagement :contentReference[oaicite:9]{index=9}
 
+---
+## 🎖️ Positions of Responsibility
+- Induction 2025 (Design OC), E‑Summit 2024 (Design OC), Induction 2024 (Design Lead) :contentReference[oaicite:10]{index=10}
 ---
 
 ## 📊 GitHub Stats
