@@ -1,61 +1,73 @@
-# Hi, I’m Virat 👋
+<!-- === Banner === -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/viratiiitd/viratiiitd/main/assets/profile-banner.svg" alt="Banner" width="800"/>
+</p>
 
-I’m a B.Tech (Computer Science & Design) student at IIIT Delhi, passionate about building web applications, crafting intuitive UIs, and exploring AI-driven solutions.
+<!-- === Profile Header & Badges === -->
+<h2 align="center">Hi, I’m Virat 👋</h2>
+<p align="center">
+  <a href="https://github.com/viratiiitd">
+    <img src="https://komarev.com/ghpvc/?username=viratiiitd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/viratiiitd/viratIIITD">
+    <img src="https://img.shields.io/github/repo-size/viratiiitd/viratIIITD?style=flat" alt="Repo size"/>
+  </a>
+  <a href="https://github.com/viratiiitd?tab=followers">
+    <img src="https://img.shields.io/github/followers/viratiiitd?label=Followers&style=social" alt="Followers"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Education
-- **B.Tech in Computer Science & Design**, IIIT Delhi (2022–Present)  
-  CGPA: 7.05 (till 6th Semester) :contentReference[oaicite:0]{index=0}
-- **CBSE XII – PCM + CS**, DAV Public School, Sreshtha Vihar (2020–2022)  
-  Percentage: 91.4 :contentReference[oaicite:1]{index=1}
-- **CBSE X**, DAV Public School, Sreshtha Vihar (2019–2020)  
-  Percentage: 87.4 :contentReference[oaicite:2]{index=2}
+## 🚀 About Me
+I’m a B.Tech (CSD) student at IIIT Delhi, building web apps, designing intuitive UIs, and exploring AI-driven financial solutions.
 
 ---
 
-## 💡 Skills
-- **Languages:** Python, JavaScript (ReactJS), TypeScript (NodeJS), Go  
-- **Web:** HTML5/CSS3, Bootstrap, REST APIs  
-- **UI/UX:** Wireframing, Prototyping  
-- **Databases:** SQL Server, MongoDB Atlas  
-- **Practices & Tools:** Agile (Scrum), CI/CD (GitHub Actions), Docker, GitHub :contentReference[oaicite:3]{index=3}
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"   alt="Python"     width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"         alt="React"      width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"         alt="NodeJS"     width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"                 alt="Go"         width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"         alt="Docker"     width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"       alt="MongoDB"    width="40" height="40"/>
+</p>
 
 ---
 
 ## 💼 Experience
-### Software Engineer Intern @ Simplify Money  
-_Jun 2025 – Aug 2025_  
-- Engineered five responsive landing pages using semantic HTML5, CSS3 (Flexbox/Grid), and vanilla JavaScript; achieved a **90% mobile‑friendliness** score on Google PageSpeed Insights :contentReference[oaicite:4]{index=4}  
-- Composed 12+ React components with full CRUD functionality, utilizing Hooks & Context API; improved application load times by **15%** :contentReference[oaicite:5]{index=5}  
-- Instituted code review guidelines and GitHub Actions workflows; decreased critical bugs by **30%** and system downtime by **15%** :contentReference[oaicite:6]{index=6}
+<!-- …your existing experience section here… -->
 
 ---
 
 ## 🔭 Projects
-- **[Stick Hero](https://github.com/viratiiitd)**  
-  JavaFX game with 95% test coverage and a 15% boost in player retention :contentReference[oaicite:7]{index=7}  
-- **[ConvoInsight](https://github.com/viratiiitd/backend_assignment)**  
-  FastAPI backend + Streamlit dashboard with OpenAI integration; **30% faster** data retrieval :contentReference[oaicite:8]{index=8}  
-- **[FinEase](https://github.com/Dushyant98474839/Dis_Prj)**  
-  Express.js & EJS budget tool with CSS pie charts; **20%** increased user engagement :contentReference[oaicite:9]{index=9}
+<!-- …your existing projects section here… -->
 
 ---
 
-## 🎖️ Positions of Responsibility
-- Induction 2025 (Design OC), E‑Summit 2024 (Design OC), Induction 2024 (Design Lead) :contentReference[oaicite:10]{index=10}
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viratiiitd&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viratiiitd&layout=compact"      alt="Top Languages" />
+</p>
 
 ---
 
-## 🎨 Interests & Hobbies
-- Gaming, Design, AI, Browsing Design Trends, ReactJS  
-- Designing (Behance), Coding, Chess :contentReference[oaicite:11]{index=11}
+## 📫 Connect with Me
 
----
-
-## 📫 Connect with me
-- **Email:** virat22578@iiitd.ac.in  
-- **Portfolio:** [viratiiitd.github.io](http://viratiiitd.github.io)  
-- **GitHub:** [@viratIIITD](https://github.com/viratiiitd)  
-- **LinkedIn:** [virat-singh-77b765251](https://www.linkedin.com/in/virat-singh-77b765251/)  
-- **Behance:** [virat4](https://www.behance.net/virat4) :contentReference[oaicite:12]{index=12}
+<p align="center">
+  <a href="mailto:virat22578@iiitd.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/virat-singh-77b765251/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://behance.net/virat4">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white" alt="Behance"/>
+  </a>
+</p>
