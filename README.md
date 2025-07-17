@@ -70,12 +70,24 @@ _Jun 2025 – Aug 2025_
 - **Esya Inter‑College Tech‑Fest**, Design Lead (Feb 2023) 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viratiiitd&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viratiiitd&layout=compact"      alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=viratiiitd&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&card_width=460"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=viratiiitd&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&card_width=460"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
