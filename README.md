@@ -8,7 +8,7 @@
 </p>
 
 <!-- === Profile Header & Badges === -->
-<h2 align="center">Hi, I’m Virat 👋</h2>
+<h2 align="center">Hello stranger, this is my github profile</h2>
 <p align="center">
   <a href="https://github.com/viratiiitd">
     <img src="https://komarev.com/ghpvc/?username=viratiiitd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
