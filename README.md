@@ -47,8 +47,8 @@ I’m a B.Tech (CSD) student at IIIT Delhi, building web apps, designing intuiti
 ### Software Engineer Intern @ Simplify Money  
 _Jun 2025 – Aug 2025_  
 - Engineered five responsive landing pages using semantic HTML5, CSS3 (Flexbox/Grid), and vanilla JavaScript; achieved a **90% mobile‑friendliness** score on Google PageSpeed Insights :contentReference[oaicite:4]{index=4}  
-- Composed 12+ React components with full CRUD functionality, utilizing Hooks & Context API; improved application load times by **15%** :contentReference[oaicite:5]{index=5}  
-- Instituted code review guidelines and GitHub Actions workflows; decreased critical bugs by **30%** and system downtime by **15%** :contentReference[oaicite:6]{index=6}
+- Composed 12+ React components with full CRUD functionality, utilizing Hooks & Context API; improved application load times by **15%**  
+- Instituted code review guidelines and GitHub Actions workflows; decreased critical bugs by **30%** and system downtime by **15%** 
 
 ---
 
