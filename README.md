@@ -1,6 +1,6 @@
 <!-- === Banner === -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/viratiiitd/viratiiitd/main/assets/profile 3.jpeg" alt="Banner" width="800" height="800"/>
+  <img src="https://raw.githubusercontent.com/viratiiitd/viratiiitd/main/assets/profile 3.jpeg" alt="Banner" style="width:100%; height:100%; object-fit:cover; object-position:center;"/>
 </p>
 
 <!-- === Profile Header & Badges === -->
