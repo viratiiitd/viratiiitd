@@ -1,9 +1,9 @@
 <!-- === Banner === -->
-<p align="center" style="overflow:hidden; width:100%; height:100px;">
+<p align="center" style="overflow:hidden; width:50%; height:100px;">
   <img
     src="https://raw.githubusercontent.com/viratiiitd/viratiiitd/main/assets/profile 3.jpeg"
     alt="Banner"
-    style="width:100%; height:100%; object-fit:cover; object-position:center;"
+    style="width:50%; height:50%; object-fit:cover; object-position:center;"
   />
 </p>
 
