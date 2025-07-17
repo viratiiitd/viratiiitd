@@ -54,11 +54,11 @@ _Jun 2025 – Aug 2025_
 
 ## 🔭 Projects
 - **[Stick Hero](https://github.com/viratiiitd)**  
-  JavaFX game with 95% test coverage and a 15% boost in player retention :contentReference[oaicite:7]{index=7}  
+  JavaFX game with 95% test coverage and a 15% boost in player retention :contentReference
 - **[ConvoInsight](https://github.com/viratiiitd/backend_assignment)**  
-  FastAPI backend + Streamlit dashboard with OpenAI integration; **30% faster** data retrieval :contentReference[oaicite:8]{index=8}  
+  FastAPI backend + Streamlit dashboard with OpenAI integration; **30% faster** data retrieval :contentReference 
 - **[FinEase](https://github.com/Dushyant98474839/Dis_Prj)**  
-  Express.js & EJS budget tool with CSS pie charts; **20%** increased user engagement :contentReference[oaicite:9]{index=9}
+  Express.js & EJS budget tool with CSS pie charts; **20%** increased user engagement :contentReference
 
 ---
 ## 🎖️ Positions of Responsibility
