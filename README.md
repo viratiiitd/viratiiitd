@@ -67,7 +67,7 @@ _Jun 2025 – Aug 2025_
 - **Induction 2024**, Design Lead (Jun 2024 – Aug 2024)
 - **Sports Council**, Design Lead (Sep 2023 – Jan 2024)  
 - **Odyssey Inter‑College Cultural Fest**, Design Lead (Sep 2023 – Jan 2024)  
-- **Esya Inter‑College Tech‑Fest**, Design Lead (Feb 2023) :contentReference
+- **Esya Inter‑College Tech‑Fest**, Design Lead (Feb 2023) 
 ---
 
 ## 📊 GitHub Stats
